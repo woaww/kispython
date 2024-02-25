@@ -15,12 +15,3 @@
     * Практическое занятие:
     [gh](https://github.com/true-grue/kispython/blob/main/pract2.ipynb)
     [co](https://colab.research.google.com/github/true-grue/kispython/blob/main/pract2.ipynb)
-
-## Дополнительные задачи
-
-* Машины экстремального обучения:
-[gh](https://github.com/true-grue/kispython/blob/main/contrib/elm.ipynb)
-[co](https://colab.research.google.com/github/true-grue/kispython/blob/main/contrib/elm.ipynb)
-* Матричные операции:
-[gh](https://github.com/true-grue/kispython/blob/main/contrib/matrices.ipynb)
-[co](https://colab.research.google.com/github/true-grue/kispython/blob/main/contrib/matrices.ipynb)
